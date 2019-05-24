@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Opinion</title>
+	</head>
+	
+	<body bgcolor="#880e4f">	
+
+		<font face="Calibri" color="white">
+			<b>Opinion</b><br>
+		</font>
+
+		<font size="2" Color="white">
+			<i>Mi paso por Coputacion Basica II</i>
+		</font>
+
+
+	</body>
+
+
+
+
+</html>
